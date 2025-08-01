@@ -1,0 +1,8 @@
+10,Dirección General
+20,Recursos Humanos
+30,Finanzas y Contabilidad
+40,Tecnología de la Información (TI)
+50,Ventas y Marketing
+60,Operaciones y Logística
+70,Atención al Cliente
+

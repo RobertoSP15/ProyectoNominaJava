@@ -1,0 +1,6 @@
+0,admin,1234
+1,abe,1234,German,Luciano,
+1,robe,1331,Roberto,Santelises,
+0,ñemoleo,1234,Fausto,Mata,
+1,4545,popop,45455,jkjk,
+1,fmj,123,fausto,Martinez,

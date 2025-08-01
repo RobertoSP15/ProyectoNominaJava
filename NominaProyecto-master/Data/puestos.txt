@@ -1,0 +1,25 @@
+101,Director General
+102,Gerente de Operaciones
+103,Asistente Ejecutivo
+201,Gerente de Recursos Humanos
+202,Analista de Reclutamiento
+203,Especialista en Nómina
+204,Coordinador de Capacitación
+301,Director Financiero (CFO)
+302,Contador Senior
+303,Analista Financiero
+304,Auxiliar de Cuentas por Pagar
+401,Director de TI (CIO)
+402,Desarrollador de Software Senior
+403,Soporte Técnico Nivel 1
+404,Administrador de Redes
+501,Gerente de Ventas
+502,Ejecutivo de Cuentas
+503,Especialista en Marketing Digital
+504,Diseñador Gráfico
+601,Jefe de Almacén
+602,Coordinador de Logística
+603,Operador de Montacargas
+701,Supervisor de Atención al Cliente
+702,Representante de Servicio al Cliente
+
