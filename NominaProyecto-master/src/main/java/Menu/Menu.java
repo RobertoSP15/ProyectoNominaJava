@@ -158,6 +158,11 @@ public class Menu extends javax.swing.JFrame {
         mnProcesos.setText("Procesos");
 
         prcGenerarNomina.setText("Generar Nomina");
+        prcGenerarNomina.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                new Procesos.prcGenerarNomina().setVisible(true);
+            }
+        });
         mnProcesos.add(prcGenerarNomina);
 
         prcReversarNomina.setText("Revervar Nomina");

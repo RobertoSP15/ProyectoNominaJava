@@ -1,0 +1,12 @@
+src/main/java/Procesos/prcGenerarNomina.java
+src/main/java/Login/User.java
+src/main/java/Login/PaletaDeColores.java
+src/main/java/Login/Login.java
+src/main/java/ManejoDeArchivos/ManejoDeArchivos.java
+src/main/java/Menu/Menu.java
+src/main/java/Menu/PaletaDeColores.java
+src/main/java/Mantenimiento/mnPuestos.java
+src/main/java/Mantenimiento/mnEmpleados.java
+src/main/java/Mantenimiento/mnUsuarios.java
+src/main/java/Mantenimiento/PaletaDeColores.java
+src/main/java/Mantenimiento/mnDepartamentos.java
